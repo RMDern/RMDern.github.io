@@ -56,11 +56,11 @@ author:
   email: "ryanmdern@gmail.com"
   github: RMDern    # eg. daattali
   twitter: RMDern   # eg. daattali
-  linkedin: https://www.linkedin.com/in/ryan-dern-52275488/  # eg. daattali
+  linkedin: RMDern  # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: true
+  rss: false
   email: true
   twitter: true
   github: true
