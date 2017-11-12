@@ -23,7 +23,7 @@ description: Portfolio & Blog
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
+  # Home: ""
   Projects: "projects"
   Resume: "resume"
   Blog: "blog"
