@@ -79,6 +79,10 @@ share-links-active:
 url-pretty: "ryandern.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
+
+# Move Blog
+paginate_path: "/blog/page:num/"
+
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 #disqus: ""
 
