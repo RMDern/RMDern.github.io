@@ -25,7 +25,7 @@ description: Portfolio & Blog
 navbar-links:
   # Home: ""
   Projects: "projects"
-  Resume: "resume"
+  Resume: "RyanDernResume.pdf"
   Blog: "blog"
   About Me: "aboutme"
 
