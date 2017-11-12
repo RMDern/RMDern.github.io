@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Ryan Dern
-subtitle: Software Engineer // Personal Portfolio & Blog
+title: Resume/CV
 use-site-title: true
 ---
 
