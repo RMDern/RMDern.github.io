@@ -42,9 +42,9 @@ avatar: "/img/me_img.png"
 # By default, the navigation bar and footer have a light gray background, and the main page
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
-navbar-col: "#4497e3"
+navbar-col: "#c5c5c5"
 # navbar-img: "/img/bgimage.png"
-footer-col: "#4497e3"
+footer-col: "#c5c5c5"
 # footer-img: "/img/bgimage.png"
 # page-col: "#FF0000"
 # page-img: "/img/bgimage.png"
