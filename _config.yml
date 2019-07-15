@@ -11,8 +11,6 @@ baseurl: ""
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
 
-# Of course don't forget to change the username and projectname to YOUR username and project
-
 # Name of website
 title: Ryan Dern
 
@@ -35,16 +33,16 @@ avatar: "/img/me_img.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: home_icon.png
+title-img: /home_icon.png
 
 # --- Background colour/image options --- #
 
 # By default, the navigation bar and footer have a light gray background, and the main page
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
-navbar-col: "#FF3A22"
+navbar-col: "#1D1E22"
 # navbar-img: "/img/bgimage.png"
-footer-col: "#FF3A22"
+footer-col: "#1D1E22"
 # footer-img: "/img/bgimage.png"
 page-col: "#F2F2F2"
 # page-img: "/img/bgimage.png"
